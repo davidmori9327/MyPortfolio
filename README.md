@@ -152,7 +152,7 @@ export const personalData = {
   address: "Rome, Italy",
   github: "https://github.com/davidmori9327",
   linkedIn: "https://www.linkedin.com/in/davidmori9327/",
-  devUsername: "said7388",
+  devUsername: "davidmori9327",
   resume: "...",
 };
 ```
