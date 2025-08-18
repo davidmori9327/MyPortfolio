@@ -35,11 +35,11 @@ function BlogCard({ blog }) {
             }
           </div>
         </div>
-        <Link target='_blank' href={blog.url}>
+        
           <p className='my-2 lg:my-3 cursor-pointer text-lg text-white sm:text-xl font-medium hover:text-violet-500'>
             {blog.title}
           </p>
-        </Link>
+        
         <p className='mb-2 text-sm text-[#16f2b3]'>
           {`${blog.reading_time_minutes} Min Read`}
         </p>
