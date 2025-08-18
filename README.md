@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+    
 </p>
 
 ---
@@ -155,14 +155,9 @@ export const personalData = {
   designation: "Senior Full-Stack Software Developer",
   description: "My name is David Mori....",
   email: "davidmori9327@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
+  address: "Rome, Italy",
+  github: "https://github.com/davidmori9327",
+  linkedIn: "https://www.linkedin.com/in/davidmori9327/",
   devUsername: "said7388",
   resume: "...",
 };
