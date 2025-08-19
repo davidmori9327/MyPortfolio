@@ -7,6 +7,6 @@ export const personalData = {
   github: 'https://github.com/davidmori9327',
   linkedIn: 'https://www.linkedin.com/in/davidmori9327/',
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1KiUUCMS4UOH6Alg2S_ZliFyFm5CKp-fL/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1l0jlL8AgR83P9ssQpv55WEHYs9o6UUQA/view?usp=drive_link"
   
 }
