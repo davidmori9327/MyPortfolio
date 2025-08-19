@@ -165,15 +165,6 @@ export const personalData = {
 
 Deploying the app to platforms like Vercel or Netlify is quick and easy.
 
-## Deploying to Vercel:
-
-1. **Sign up or log in** to [Vercel](https://vercel.com/).
-2. Once logged in, click on **"New Project"**.
-3. Select your **GitHub repo** (the one that contains your forked project) and click **Import**.
-4. Configure your environment variables in the Vercel dashboard by adding each key from your `.env` file.
-   - E.g., `NEXT_PUBLIC_GTM`, `NEXT_PUBLIC_APP_URL`, `TELEGRAM_BOT_TOKEN`, etc.
-5. Click on **Deploy**. Vercel will automatically detect your Next.js app and build it.
-6. Once the deployment is complete, you can visit your live website!
 
 ### Updating After Deployment
 
