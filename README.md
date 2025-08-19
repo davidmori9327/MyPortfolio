@@ -12,7 +12,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://davidmori9327.netlify.app/).
 
 ---
 
@@ -139,7 +139,7 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/davidmori9327/MyPortfolio/tree/main/utils/data).
 
 Eg:
 
